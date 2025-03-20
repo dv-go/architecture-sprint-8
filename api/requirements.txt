@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+fastapi-keycloak
+pyjwt
+python-keycloak
+keycloak-client
